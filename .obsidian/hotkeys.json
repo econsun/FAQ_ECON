@@ -51,24 +51,6 @@
     }
   ],
   "markdown:toggle-preview": [],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "V"
-    }
-  ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "C"
-    }
-  ],
   "obsidian-footnotes:insert-autonumbered-footnote": [
     {
       "modifiers": [
@@ -136,5 +118,39 @@
   ],
   "easy-typing-obsidian:easy-typing-insert-codeblock": [],
   "easy-typing-obsidian:easy-typing-paste-without-format": [],
-  "easy-typing-obsidian:easy-typing-format-switch": []
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "easy-typing-obsidian:easy-typing-format-article": [],
+  "easy-typing-obsidian:easy-typing-format-selection": [],
+  "workspace:close": [],
+  "workspace:close-window": [],
+  "editor:save-file": [],
+  "editor:delete-paragraph": [],
+  "app:go-forward": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "editor:open-link-in-new-leaf": [],
+  "editor:open-link-in-new-window": [],
+  "editor:open-link-in-new-split": [],
+  "markdown:add-metadata-property": [],
+  "switcher:open": [],
+  "editor:follow-link": [],
+  "app:open-settings": [],
+  "global-search:open": [],
+  "workspace:new-tab": [],
+  "app:open-help": [],
+  "editor:toggle-comments": [],
+  "workspace:edit-file-title": [],
+  "workspace:previous-tab": [],
+  "workspace:next-tab": [],
+  "workspace:goto-last-tab": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-8": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-6": [],
+  "app:go-back": [],
+  "workspace:undo-close-pane": []
 }

@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "b 月度（伸长版）/7 月问答精选.md",
+                "file": "0 主页.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           },
@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 操作流水.md",
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc97e047c4bf490f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "53c07f0521fea46d",
@@ -92,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 操作流水.md"
+                "file": "README.md"
               }
             }
           }
@@ -107,12 +121,21 @@
     "hiddenItems": {
       "smart-random-note:Open Random Note from Search": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "publish:发布更改": false
+      "publish:发布更改": false,
+      "templates:插入模板": false
     }
   },
   "active": "5b1e3ca08e3063eb",
   "lastOpenFiles": [
+    "模板/单元.md",
+    "README.md",
+    "未命名.md",
+    "0 主页.md",
+    "d 材料/dc 附件/LXGWWenKaiGBScreen.ttf",
+    "4 操作流水.md",
+    "更新记录.md",
+    "1 汇总问题（伸长版）.md",
+    "d 材料/dd PDF/240704_78_汇总问答.pdf",
     "b 月度（伸长版）/7 月问答精选.md",
     "c 题库（缩短版）/Problem 0088.md",
     "c 题库（缩短版）/Problem 0087.md",
@@ -132,13 +155,6 @@
     "c 题库（缩短版）/Problem 0073.md",
     "c 题库（缩短版）/Problem 0072.md",
     "c 题库（缩短版）/Problem 0071.md",
-    "c 题库（缩短版）/Problem 0070.md",
-    "c 题库（缩短版）/Problem 0069.md",
-    "c 题库（缩短版）/Problem 0068.md",
-    "c 题库（缩短版）/Problem 0067.md",
-    "c 题库（缩短版）/Problem 0066.md",
-    "c 题库（缩短版）/Problem 0065.md",
-    "c 题库（缩短版）/Problem 0064.md",
     "a 题库（伸长版）",
     "file_generator.py",
     "check_number.py",
@@ -146,18 +162,16 @@
     "d 材料/db 图库/0082.png",
     "d 材料/db 图库/0071.png",
     "Pasted image 20240704002531.png",
-    "d 材料/dc PDF/240704_70_汇总问答.pdf",
     "Pasted image 20240703213605.png",
     "Pasted image 20240704002139.png",
     "266B7448.png",
     "d 材料/db 图库/0063.png",
     "0062.png",
     "d 材料/db 图库/0061.png",
-    "d 材料/dc PDF/240530_60_汇总问答.pdf",
+    "d 材料/dd PDF/240530_60_汇总问答.pdf",
     "run.bat",
     "run.txt",
     "New 文本文档.txt",
-    "d 材料/dc PDF",
-    "d 材料/da 话题"
+    "d 材料/dd PDF"
   ]
 }
