@@ -26,20 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc97e047c4bf490f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
+                "file": "1 汇总问题（缩短版）.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53c07f0521fea46d",
@@ -106,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1 汇总问题（缩短版）.md"
               }
             }
           }
@@ -127,14 +113,16 @@
   },
   "active": "5b1e3ca08e3063eb",
   "lastOpenFiles": [
-    "模板/单元.md",
+    "1 汇总问题（伸长版）.md",
+    "1 汇总问题（缩短版）.md",
+    "d 材料/dd PDF/240729_88_汇总问答.pdf",
     "README.md",
-    "未命名.md",
     "0 主页.md",
+    "模板/单元.md",
+    "未命名.md",
     "d 材料/dc 附件/LXGWWenKaiGBScreen.ttf",
     "4 操作流水.md",
     "更新记录.md",
-    "1 汇总问题（伸长版）.md",
     "d 材料/dd PDF/240704_78_汇总问答.pdf",
     "b 月度（伸长版）/7 月问答精选.md",
     "c 题库（缩短版）/Problem 0088.md",
@@ -154,7 +142,6 @@
     "c 题库（缩短版）/Problem 0074.md",
     "c 题库（缩短版）/Problem 0073.md",
     "c 题库（缩短版）/Problem 0072.md",
-    "c 题库（缩短版）/Problem 0071.md",
     "a 题库（伸长版）",
     "file_generator.py",
     "check_number.py",
@@ -171,7 +158,6 @@
     "d 材料/dd PDF/240530_60_汇总问答.pdf",
     "run.bat",
     "run.txt",
-    "New 文本文档.txt",
-    "d 材料/dd PDF"
+    "New 文本文档.txt"
   ]
 }
