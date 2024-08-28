@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 主页.md",
+                "file": "a 知识（缩短版）/22 宏观 - 长期经济.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,20 +21,51 @@
             }
           },
           {
-            "id": "5b1e3ca08e3063eb",
+            "id": "cf20c0f56cd59302",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 汇总问题（缩短版）.md",
+                "file": "1 汇总问题（伸长版）.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fc0494a7a1f8118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "d 材料/dd 模板/Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "90a10fd49e23a45e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ff93f494534e2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 操作流水.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "53c07f0521fea46d",
@@ -92,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 汇总问题（缩短版）.md"
+                "file": "a 知识（缩短版）/22 宏观 - 长期经济.md"
               }
             }
           }
@@ -105,43 +137,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
       "smart-random-note:Open Random Note from Search": false,
-      "switcher:打开快速切换": false,
-      "publish:发布更改": false,
-      "templates:插入模板": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5b1e3ca08e3063eb",
+  "active": "7360b599125ecdec",
   "lastOpenFiles": [
-    "1 汇总问题（伸长版）.md",
-    "1 汇总问题（缩短版）.md",
-    "d 材料/dd PDF/240729_88_汇总问答.pdf",
-    "README.md",
-    "0 主页.md",
-    "模板/单元.md",
-    "未命名.md",
-    "d 材料/dc 附件/LXGWWenKaiGBScreen.ttf",
+    "c 题库（缩短版）/Problem 0092.md",
+    "c 题库（缩短版）/Problem 0091.md",
+    "c 题库（缩短版）/Problem 0090.md",
+    "c 题库（缩短版）/Problem 0089.md",
+    "c 题库（缩短版）/Problem 0095.md",
+    "c 题库（缩短版）/Problem 0094.md",
+    "c 题库（缩短版）/Problem 0093.md",
+    "b 月度（缩短版）/8 月问答精选.md",
+    "a 知识（缩短版）/14 微观 - 市场理论.md",
+    "a 知识（缩短版）/12 微观 - 消费理论.md",
+    "a 知识（缩短版）/23 宏观 - 超长期经济.md",
+    "a 知识（缩短版）/21 宏观 - 经济数据.md",
+    "a 知识（缩短版）/22 宏观 - 长期经济.md",
+    "b 月度（伸长版）/8 月问答精选.md",
     "4 操作流水.md",
-    "更新记录.md",
-    "d 材料/dd PDF/240704_78_汇总问答.pdf",
+    "c 题库（伸长版）/Problem 0090.md",
+    "c 题库（伸长版）/Problem 0089.md",
     "b 月度（伸长版）/7 月问答精选.md",
-    "c 题库（缩短版）/Problem 0088.md",
-    "c 题库（缩短版）/Problem 0087.md",
-    "c 题库（缩短版）/Problem 0086.md",
-    "c 题库（缩短版）/Problem 0085.md",
-    "c 题库（缩短版）/Problem 0084.md",
-    "c 题库（缩短版）/Problem 0083.md",
-    "c 题库（缩短版）/Problem 0082.md",
-    "c 题库（缩短版）/Problem 0081.md",
-    "c 题库（缩短版）/Problem 0080.md",
-    "c 题库（缩短版）/Problem 0079.md",
-    "c 题库（缩短版）/Problem 0078.md",
-    "c 题库（缩短版）/Problem 0077.md",
-    "c 题库（缩短版）/Problem 0076.md",
-    "c 题库（缩短版）/Problem 0075.md",
-    "c 题库（缩短版）/Problem 0074.md",
-    "c 题库（缩短版）/Problem 0073.md",
-    "c 题库（缩短版）/Problem 0072.md",
+    "b 月度（缩短版）/7 月问答精选.md",
+    "c 题库（伸长版）/Problem 0095.md",
+    "c 题库（伸长版）/Problem 0094.md",
+    "c 题库（伸长版）/Problem 0093.md",
+    "c 题库（伸长版）/Problem 0092.md",
+    "c 题库（伸长版）/Problem 0091.md",
+    "1 汇总问题（伸长版）.md",
+    "d 材料/dd 模板/Note.md",
+    "d 材料/de PDF/240530_60_汇总问答.pdf",
+    "d 材料/de PDF",
+    "d 材料/dd 模板",
+    "d 材料/de PDF/240729_88_汇总问答.pdf",
+    "d 材料/dc 附件/LXGWWenKaiGBScreen.ttf",
+    "d 材料/de PDF/240704_78_汇总问答.pdf",
     "a 题库（伸长版）",
     "file_generator.py",
     "check_number.py",
@@ -155,9 +189,6 @@
     "d 材料/db 图库/0063.png",
     "0062.png",
     "d 材料/db 图库/0061.png",
-    "d 材料/dd PDF/240530_60_汇总问答.pdf",
-    "run.bat",
-    "run.txt",
-    "New 文本文档.txt"
+    "d 材料/dd PDF/240530_60_汇总问答.pdf"
   ]
 }

@@ -3,10 +3,9 @@
   "global-search",
   "switcher",
   "page-preview",
-  "templates",
   "editor-status",
   "outline",
   "word-count",
   "file-recovery",
-  "publish"
+  "sync"
 ]

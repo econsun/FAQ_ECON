@@ -8,8 +8,8 @@
     "publish",
     "obsidian"
   ],
-  "theme": "system",
+  "theme": "moonstone",
   "baseFontSize": 16,
-  "textFontFamily": "LXGW WenKai GB Screen",
+  "textFontFamily": "LXGW WenKai",
   "showViewHeader": true
 }
