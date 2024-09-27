@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 操作流水.md",
+                "file": "1 汇总问题（缩短版）.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "53c07f0521fea46d",
@@ -79,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 操作流水.md"
+                "file": "1 汇总问题（缩短版）.md"
               }
             }
           }
@@ -100,7 +99,18 @@
   "active": "988c8389458e758a",
   "lastOpenFiles": [
     "1 汇总问题（伸长版）.md",
+    "c 题库（缩短版）/Problem 0104.md",
+    "b 月度（伸长版）/9 月问答精选.md",
+    "b 月度（缩短版）/9 月问答精选.md",
     "3 操作流水.md",
+    "c 题库（缩短版）/Problem 0103.md",
+    "c 题库（缩短版）/Problem 0102.md",
+    "c 题库（缩短版）/Problem 0101.md",
+    "c 题库（缩短版）/Problem 0100.md",
+    "c 题库（缩短版）/Problem 0099.md",
+    "c 题库（缩短版）/Problem 0098.md",
+    "c 题库（缩短版）/Problem 0097.md",
+    "c 题库（缩短版）/Problem 0096.md",
     "Untitled.md",
     "4 话题.md",
     "0 主页.md",
@@ -114,17 +124,6 @@
     "c 题库（伸长版）/Problem 0099.md",
     "c 题库（伸长版）/Problem 0098.md",
     "c 题库（伸长版）/Problem 0097.md",
-    "c 题库（伸长版）/Problem 0096.md",
-    "b 月度（伸长版）/9 月问答精选.md",
-    "b 月度（伸长版）/8 月问答精选.md",
-    "a 知识（缩短版）/12 微观 - 消费理论.md",
-    "a 知识（缩短版）/25 宏观 - 开放经济.md",
-    "a 知识（缩短版）/24 宏观 - 短期经济.md",
-    "a 知识（缩短版）/13 微观 - 生产理论.md",
-    "a 知识（缩短版）/14 微观 - 市场理论.md",
-    "a 知识（缩短版）/22 宏观 - 长期经济.md",
-    "d 材料/dd 模板/date.md",
-    "d 材料/dd 模板/Element.md",
     "d 材料/db 图库/0097.png",
     "d 材料/db 图库/double holly.png",
     "告别信.png",
