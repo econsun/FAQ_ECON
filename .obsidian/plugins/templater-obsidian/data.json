@@ -8,7 +8,7 @@
     ]
   ],
   "trigger_on_file_creation": false,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
@@ -22,7 +22,9 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "d 材料/dd 模板/Element.md",
+    "d 材料/dd 模板/change.md",
+    "d 材料/dd 模板/date.md"
   ],
   "startup_templates": [
     ""

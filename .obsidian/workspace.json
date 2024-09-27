@@ -4,60 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "cf6c5b51c42d9471",
+        "id": "f4340c1d2859f978",
         "type": "tabs",
         "children": [
           {
-            "id": "7360b599125ecdec",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "告别信.png"
-              }
-            }
-          },
-          {
-            "id": "cf20c0f56cd59302",
+            "id": "988c8389458e758a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 汇总问题（伸长版）.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fc0494a7a1f8118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 汇总问题（伸长版）.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c075a5d3cc5126a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "3 操作流水.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "53c07f0521fea46d",
@@ -115,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "3 操作流水.md"
               }
             }
           }
@@ -133,37 +97,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c075a5d3cc5126a",
+  "active": "988c8389458e758a",
   "lastOpenFiles": [
     "1 汇总问题（伸长版）.md",
-    "c 题库（伸长版）/Problem 0081.md",
     "3 操作流水.md",
     "Untitled.md",
-    "2 存档问题.md",
-    "caoz.md",
+    "4 话题.md",
+    "0 主页.md",
+    "5 树洞.md",
+    "1 汇总问题（缩短版）.md",
+    "c 题库（伸长版）/Problem 0104.md",
+    "c 题库（伸长版）/Problem 0103.md",
+    "c 题库（伸长版）/Problem 0102.md",
+    "c 题库（伸长版）/Problem 0101.md",
+    "c 题库（伸长版）/Problem 0100.md",
+    "c 题库（伸长版）/Problem 0099.md",
+    "c 题库（伸长版）/Problem 0098.md",
+    "c 题库（伸长版）/Problem 0097.md",
+    "c 题库（伸长版）/Problem 0096.md",
+    "b 月度（伸长版）/9 月问答精选.md",
+    "b 月度（伸长版）/8 月问答精选.md",
+    "a 知识（缩短版）/12 微观 - 消费理论.md",
+    "a 知识（缩短版）/25 宏观 - 开放经济.md",
+    "a 知识（缩短版）/24 宏观 - 短期经济.md",
+    "a 知识（缩短版）/13 微观 - 生产理论.md",
+    "a 知识（缩短版）/14 微观 - 市场理论.md",
+    "a 知识（缩短版）/22 宏观 - 长期经济.md",
+    "d 材料/dd 模板/date.md",
+    "d 材料/dd 模板/Element.md",
+    "d 材料/db 图库/0097.png",
+    "d 材料/db 图库/double holly.png",
     "告别信.png",
     "Pasted image 20240831225832.png",
-    "a 知识（缩短版）/22 宏观 - 长期经济.md",
     "Pasted image 20240831225555.png",
-    "d 材料/dd 模板/Note.md",
-    "c 题库（缩短版）/Problem 0092.md",
-    "c 题库（缩短版）/Problem 0091.md",
-    "c 题库（缩短版）/Problem 0090.md",
-    "c 题库（缩短版）/Problem 0089.md",
-    "c 题库（缩短版）/Problem 0095.md",
-    "c 题库（缩短版）/Problem 0094.md",
-    "c 题库（缩短版）/Problem 0093.md",
-    "b 月度（缩短版）/8 月问答精选.md",
-    "a 知识（缩短版）/14 微观 - 市场理论.md",
-    "a 知识（缩短版）/12 微观 - 消费理论.md",
-    "a 知识（缩短版）/23 宏观 - 超长期经济.md",
-    "a 知识（缩短版）/21 宏观 - 经济数据.md",
-    "b 月度（伸长版）/8 月问答精选.md",
-    "c 题库（伸长版）/Problem 0090.md",
-    "c 题库（伸长版）/Problem 0089.md",
-    "b 月度（伸长版）/7 月问答精选.md",
-    "b 月度（缩短版）/7 月问答精选.md",
-    "c 题库（伸长版）/Problem 0095.md",
     "d 材料/de PDF/240530_60_汇总问答.pdf",
     "d 材料/de PDF",
     "d 材料/dd 模板",
@@ -176,10 +142,6 @@
     "d 材料/db 图库/0084.png",
     "d 材料/db 图库/0082.png",
     "d 材料/db 图库/0071.png",
-    "Pasted image 20240704002531.png",
-    "Pasted image 20240703213605.png",
-    "Pasted image 20240704002139.png",
-    "266B7448.png",
     "d 材料/dd PDF/240530_60_汇总问答.pdf"
   ]
 }

@@ -224,14 +224,7 @@
     }
   ],
   "workspace:undo-close-pane": [],
-  "quick-latex:addInlineMath": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "3"
-    }
-  ],
+  "quick-latex:addInlineMath": [],
   "quick-latex:addMatrixBlock": [
     {
       "modifiers": [
@@ -399,22 +392,6 @@
       "key": "`"
     }
   ],
-  "theme:use-dark": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "2"
-    }
-  ],
-  "theme:use-light": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "1"
-    }
-  ],
   "workspace:copy-path": [
     {
       "modifiers": [
@@ -445,6 +422,30 @@
         "Alt"
       ],
       "key": "R"
+    }
+  ],
+  "templater-obsidian:d 材料/dd 模板/Element.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "templater-obsidian:d 材料/dd 模板/change.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "templater-obsidian:d 材料/dd 模板/date.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
     }
   ]
 }

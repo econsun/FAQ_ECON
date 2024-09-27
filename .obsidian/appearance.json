@@ -10,6 +10,6 @@
   ],
   "theme": "moonstone",
   "baseFontSize": 16,
-  "textFontFamily": "LXGW WenKai",
+  "textFontFamily": "LXGW WenKai,Source Han Serif CN",
   "showViewHeader": true
 }

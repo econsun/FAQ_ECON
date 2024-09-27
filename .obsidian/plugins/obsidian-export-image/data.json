@@ -1,6 +1,6 @@
 {
   "width": 780,
-  "showFilename": true,
+  "showFilename": false,
   "2x": true,
   "format": "png0",
   "showMetadata": false,

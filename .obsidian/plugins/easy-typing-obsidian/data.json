@@ -39,27 +39,27 @@
   "userDeleteRulesStrList": [],
   "userConvertRulesStrList": [
     [
-      "三星|",
+      "sanxing|",
       "$\\color{#EC7500}\\bigstar\\bigstar\\bigstar$|"
     ],
     [
-      "二星|",
+      "liangxing|",
       "$\\color{#EC7500}\\bigstar\\bigstar$|"
     ],
     [
-      "一星|",
+      "yixing|",
       "$\\color{#EC7500}\\bigstar$|"
     ],
     [
-      "红|",
+      "red|",
       "<font color = #D7422A>|"
     ],
     [
-      "蓝|",
+      "blue|",
       "<font color = #003C88>|"
     ],
     [
-      "完|",
+      "wan|",
       "</font>|"
     ],
     [

@@ -5,7 +5,7 @@ const questionMM = String(await tp.system.prompt("Enter the MM:")).padStart(2, '
 const questionDD = String(await tp.system.prompt("Enter the DD:")).padStart(2, '0');
 const today = tp.date.now("YYYY - MM - DD");
 
-tR += `> [!question] ${paddedNumber} | \n> \n> \n> \n`;
+tR += `> [!question] ${paddedNumber} | ${tp.file.cursor()}\n> \n> \n> \n`;
 tR += `> **知识分类**：\n`;
 tR += `> **提问日期**：2024 - ${questionMM} - ${questionDD}\n`;
 tR += `> **首次编辑**：${today}\n`;
